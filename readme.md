@@ -60,6 +60,7 @@
 | [IRA Design](https://iradesign.io/)                                                                     | An open-source gradient illustrations collection by creative tim.  |
 | [Storytale.io](https://storytale.io/freebies/) | Subset of Storytale free quality illustrations |
 | [icons8.com/illustrations](https://icons8.com/illustrations) | Free vector illustrations to class up your project |
+| [Patternico](https://patternico.com) | Seamless Pattern Maker |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -154,6 +155,7 @@
 | [Color Lovers](https://www.colourlovers.com/palettes) | it will show the color schemes which are popular in outside world
 | [HTML CSS Color](https://www.htmlcsscolor.com/) | Free online Color (USA) or Colour (British) tools: information, gradient generator, color wheels etc.
 | [HEX Color Codes](https://hexcolorcodes.org/) | It gets HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names.
+| [CoolHue 2.0](https://webkul.github.io/coolhue/) | A free tool that shows different gradient examples in CSS and PNG format
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -207,6 +209,7 @@
 | [Evericons](https://www.figma.com/resources/assets/evericons-for-figma/) | Evericons is a big pack of over 460 free icons designed by Aleksey Popov. |
 | [SVG Repo](https://www.svgrepo.com/) | Download free SVG Vectors for commercial use. |
 | [Convertio](https://convertio.co/png-svg/) | Convert PNG files to SVG online & free. (One of the services provided by it.) |
+| [CSS ICON](https://cssicon.space/) | Icon set made with pure css code, no dependencies, "grab and go" icons |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -291,6 +294,7 @@
 | [Nappy](https://www.nappy.co/)| A website offering Beautiful, high-res photos of black and brown people.|
 | [Generated Photos](https://generated.photos/)| Unique AI Generated model photos|
 | [Reshot](https://www.reshot.com/)| Uniquely free photos. Handpicked, non-stocky images.
+| [Free Images](https://www.freeimages.com/)| Find and download free stock photos - all free for personal and commercial use|
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
